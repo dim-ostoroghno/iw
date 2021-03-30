@@ -1,9 +1,6 @@
 ﻿init:
 
     $ mods["start_iw"]=u"{font=mods/iw/menu/slimamif.ttf}{color=#131357}Сокровенное желание{/color}{/font}"
-
-    $ two_sec_diss = Dissolve(2.0)
-    $ five_sec_diss = Dissolve(5.0)
     
     image bg clear_sem_room_e3 = "mods/2020miku/bg/clear_sem_room_e3.jpg"
     image not_real_friend_e3 = "mods/2020miku/ach/not_real_friend_e3.png"
