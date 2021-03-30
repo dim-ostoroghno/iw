@@ -1,6 +1,6 @@
 ﻿init:
 
-    $ mods["start_iw"]=u"{font=mods/iw/menu/segoepr.ttf}{color=#f40b27}Сокровенное желание{/color}{/font}"
+    $ mods["start_iw"]=u"{font=mods/iw/menu/slimamif.ttf}{color=#131357}Сокровенное желание{/color}{/font}"
 
     $ two_sec_diss = Dissolve(2.0)
     $ five_sec_diss = Dissolve(5.0)
@@ -53,6 +53,8 @@
 #CG    
     image cg d1_sl_dinner_e3 = "mods/2020miku/cg/d1_sl_dinner_e3.jpg"
     image cg d1_sl_dinner_0_e3 = "mods/2020miku/cg/d1_sl_dinner_0_e3.jpg"
+#IMAGE
+    image scary_lena = "mods/iw/i/scary_lena.png"
         
 #Музыка
     $ koster1_e3 = "mods/2020miku/music/koster1_e3.mp3"
