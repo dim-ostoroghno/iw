@@ -1,0 +1,46 @@
+1
+
+normal
+sad
+smile
+surprise
+
+body
+dress
+nightdress
+panama pioneer
+panama swim 
+pioneer
+sport
+swim
+
+2
+
+angry
+rage
+shocked
+
+body
+dress
+nightdress
+panama pioneer 
+panama swim 
+pioneer
+sport
+swim
+
+
+3
+
+grin
+laugh
+scared
+
+body
+dress
+nightdress
+panama pioneer
+panama swim
+pioneer
+sport
+swim
