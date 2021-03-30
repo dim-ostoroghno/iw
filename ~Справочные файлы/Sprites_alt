@@ -1,0 +1,168 @@
+show dv_e и тд везде добавлять _e
+hide dv_e
+======================================
+Алиса 
+normal,close,far [body,pioneer,pioneer2,sport,swim]
+
+cry плачет
+scared напугана
+shocked шокирована
+surprise удивлена
+grin ухмыляется
+guilty виноватая
+sad грустная
+shy застенчивая
+laugh смеется
+normal
+smile улыбается
+angry злая
+rage в ярости
+=======================================
+Мику 
+normal [body,casual,dress,pioneer,sport,swim]
+close,far [body,dress,pioneer,sport,swim]
+
+cry
+dontlike недовольна
+laugh
+scared
+shocked
+shy
+surprise
+cry_smile улыбка и слезы
+grin
+happy счастлива
+happy2
+sad
+smile
+angry
+angry2
+normal
+rage
+serious серьезна
+upset расстроена
+=======================================
+Ольга Дмитриевна
+normal,close,far [body,dress,nightdress,panama pioneer,panama swim,pioneer,sport,swim]
+
+normal
+sad
+smile
+surprise
+angry
+rage
+shocked
+grin
+laugh
+scared
+=======================================
+Славя
+normal,close,far [body,dress,pioneer,sport,swim]
+
+dontlike (normal)
+normal
+serious
+smile
+evil_smile (normal)
+grin (normal)
+happy
+laugh
+shy
+smile2
+angry
+sad
+shy2 (normal) 
+surprise
+upset (normal) 
+cry (normal) 
+rage (normal) 
+scared
+scared2
+tender нежная
+=======================================
+Лена
+normal,close,far [body,dress,pioneer,sport,swim]
+
+angry
+evil_smile
+normal
+shy
+shy2 (normal)
+smile
+smile2
+cry
+cry_smile
+sad
+scared
+scared2
+shocked
+shocked2
+surprise
+
+normal,close,far [body,dress,pioneer,sport]
+
+angry2
+grin
+laugh
+rage
+serious
+smile3
+=======================================
+Ульяна
+normal,close,far [body,dress,pioneer,sport,swim]
+
+grin
+laugh
+laugh2
+normal
+sad
+smile
+angry
+calml спокойна
+dontlike
+fear
+upset
+cry
+cry2
+shy
+shy2
+surp1
+surp2
+surp3
+========================================
+Женя
+normal,close,far [body,pioneer,swimsuit]
+
+amazed
+bukal
+fun
+hope
+laugh
+normal
+sad
+sceptic
+angry
+cry
+rage
+shyangry
+smile
+confused
+excitement
+shy
+==========================================
+Алёна
+normal [body (pioneer)]
+
+dontlike
+grin
+guilty
+normal
+serious
+smile
+sorrow
+dull
+grin2
+angry
+sad
+
+
