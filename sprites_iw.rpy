@@ -1,6 +1,6 @@
-﻿init -1000:
+init -1000:
 #Спрайты
-####
+
     image dv_s cry body = ConditionSwitch(
         "persistent.sprite_time == 'sunset'", im.MatrixColor(im.Composite((900, 1080), (0, 0), "mods/iw/sprites/normal/dv_s/dv_1_body.png", (0, 0), "mods/iw/sprites/normal/dv_s/dv_1_cry.png"), im.matrix.tint(0.94, 0.82, 1.0)),
         "persistent.sprite_time == 'night'", im.MatrixColor(im.Composite((900, 1080), (0, 0), "mods/iw/sprites/normal/dv_s/dv_1_body.png", (0, 0), "mods/iw/sprites/normal/dv_s/dv_1_cry.png"), im.matrix.tint(0.63, 0.78, 0.82)),
